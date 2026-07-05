@@ -52,6 +52,10 @@ This manual was created to close that gap. It's designed so that a student with
 zero prior robotics knowledge can build up basic operating skills step by step,
 independently.
 
+## 📄 マニュアル / Manual
+- [操作マニュアル（2026.02.02） / Operation Manual (PDF)](./卒業研究ー操作マニュアル（2026.02.02）.pdf)
+- [エンドエフェクタ交換作業手順書 / End-Effector Replacement Procedure (PDF)](./卒業研究ーエンドエフェクタ交換作業手順書.pdf)
+
 ### What's Inside
 - Basic structure and component names of the UR5e
 - Step-by-step procedure from power-on to basic operation

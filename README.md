@@ -59,5 +59,5 @@ independently.
 - Notes on common points beginners tend to struggle with
 
 ## 📄 マニュアル / Manual
-- [操作マニュアル（2026.02.02） / Operation Manual (PDF)](./卒業研究ー操作マニュアル（2026.02.02）.pdf)
+- [操作マニュアル / Operation Manual (PDF)](./卒業研究ー操作マニュアル.pdf)
 - [エンドエフェクタ交換作業手順書 / End-Effector Replacement Procedure (PDF)](./卒業研究ーエンドエフェクタ交換作業手順書.pdf)

@@ -1,5 +1,7 @@
 # ur5e-robotic-hand-manual
 Operation Manual for the Universal Robots UR5e Collaborative Robot
+"作成者：CHAN DING KHAI, 堀　煌生
+
 <div align="justify">
 
 ## 日本語 ver

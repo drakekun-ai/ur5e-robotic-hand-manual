@@ -14,6 +14,7 @@ Operation Manual for the Universal Robots UR5e Collaborative Robot
 安全柵なしで導入できることから近年急速に普及が進んでいます。一方で、教育機関に
 おいて協働ロボットを扱う実践教材はまだ非常に少なく、操作を学べる場自体が限られ
 ているのが現状です。
+
 <img width="438" height="298" alt="Picture1" src="https://github.com/user-attachments/assets/79305d4a-bacc-493a-88e2-3248bab99e53" />
 <sub>出典：https://rsi.jrcnet.co.jp/column-collaborativerobot/<sub>
 

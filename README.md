@@ -36,6 +36,7 @@ Operation Manual for the Universal Robots UR5e Collaborative Robot
 - 初心者がつまずきやすいポイントの補足説明
 
 ---
+<img width="1212" height="911" alt="image" src="https://github.com/user-attachments/assets/840d4912-e4b8-409c-9fcb-73467ca34c22" />
 
 ## English ver
 

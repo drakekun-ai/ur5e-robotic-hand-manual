@@ -45,7 +45,7 @@ Operation Manual for the Universal Robots UR5e Collaborative Robot
 
 This manual was created as part of my final year research at the Fukui National Institute of Technology, covering step-by-step guidance for operating the UR5e collaborative robot.
 
-Collaborative robots are a category of industrial robots that can safely work alongside humans in the same space, thanks to built-in safety features that remove the need for physical safety barriers. This has driven rapid adoption in industry. However, hands-on educational materials for collaborative robots aren't common, and opportunities to actually learn how to operate one are still limited.
+Collaborative robots are a category of industrial robots that can safely work alongside humans in the same space, thanks to built-in safety features that remove the need for safety barriers. This has driven rapid adoption of collaborative robots in the production industry. However, hands-on educational materials for collaborative robots aren't common, and opportunities to actually learn how to operate one are still limited.
 
 </div>
 
